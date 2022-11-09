@@ -1,1 +1,4 @@
-# terminology_project
+# Terminology Project
+
+Authors: AGUIAR Mathilde NIAOURI Dimitra
+
