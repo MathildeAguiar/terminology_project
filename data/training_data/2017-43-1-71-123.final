@@ -19,7 +19,6 @@ NLP	B
 )	O
 applications	I
 .	O
-	O
 Computational	B
 work	I
 on	I
@@ -212,7 +211,7 @@ state	B
 of	I
 -	I
 the	I
--	II
+-	I
 art	I
 results	O
 with	O
