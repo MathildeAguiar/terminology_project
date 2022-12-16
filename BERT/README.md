@@ -1,3 +1,3 @@
-# BERT 
+# BERT for IOB tagging 
 
-TODO
+IOB tagging for the NLP domain
